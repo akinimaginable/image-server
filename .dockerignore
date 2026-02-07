@@ -1,0 +1,20 @@
+# User data
+images/**
+
+# Git
+.gitignore
+.git/
+.github/
+
+# macOS
+.DS_Store
+
+# Intellij
+.idea/
+
+# Binary files
+image-server
+*.exe
+*.dll
+*.so
+*.dylib
